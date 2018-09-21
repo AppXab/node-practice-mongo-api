@@ -1,0 +1,28 @@
+{
+  "name": "practice-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.2.16",
+    "mongose": "^0.0.2-security",
+    "node": "^10.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppXab/node-practice-mongo-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AppXab/node-practice-mongo-api/issues"
+  },
+  "homepage": "https://github.com/AppXab/node-practice-mongo-api#readme"
+}
